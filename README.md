@@ -1,6 +1,6 @@
 # 3주차 git
 # 이미지
-![한국항공대학교](/img/kau/kau.png "한국항공대학교")
+![한국항공대학교](./70주년 로고 골드.png "한국항공대학교")
 
 # 링크
 [LMS](http://www.hangkong.ac.kr/web/index.do)
